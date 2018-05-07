@@ -1,10 +1,11 @@
 <?php
 
-namespace htl3r\4bi-baelle\
+namespace HTL3R\Balls\Interfaces;
 
 interface BallInterface
 {
     public function getVolumen() : float;
+
 
 
 }

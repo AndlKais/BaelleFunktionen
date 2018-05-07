@@ -1,7 +1,7 @@
 <?php
-    namespace Baelle\BallTypes;
+    namespace HTL3R\Balle\BallTypes;
 
-    abstract class Ball implements \Baelle\Interfaces\BallInterface {
+    abstract class Ball implements \HTL3R\Balls\Interfaces\BallInterface {
 
         protected $name;
         protected $durchmesser;

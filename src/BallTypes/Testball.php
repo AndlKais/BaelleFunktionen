@@ -1,9 +1,9 @@
 <?php
 
-namespace Baelle\BallTypes;
+namespace HTL3R\Balls\BallTypes;
 //interface einbinden
 
-use Baelle\Interfaces\BallInterface as BallInterface;
+use HTL3R\Balls\Interfaces\BallInterface as BallInterface;
 
 
 class Testball extends Ball implements BallInterface{
