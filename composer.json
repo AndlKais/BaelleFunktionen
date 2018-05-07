@@ -1,0 +1,13 @@
+{
+    "name": "htl3r/4biballs",
+    "description": "Ball package for the demo shop use case",
+    "type": "library",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Andreas Kaiser",
+            "email": "4171@htl.rennweg.at"
+        }
+    ],
+    "require": {}
+}
